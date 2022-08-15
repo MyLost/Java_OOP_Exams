@@ -12,6 +12,9 @@ public abstract class BaseCar implements Car {
 
     private double cubicCentimeters;
 
+    final static String fasdfasdfsdf() {
+        return "";
+    }
     protected BaseCar(String model, int horsePower, double cubicCentimeters) {
         this.setModel(model);
         this.setHorsePower(horsePower);
